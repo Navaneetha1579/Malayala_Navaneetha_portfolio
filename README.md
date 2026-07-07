@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 🔗 Portfolio Website: https://navaneetha1579.github.io/Malayala_Navaneetha_portfolio/
 
-> *(Replace the above link with your GitHub Pages URL if it changes.)*
+
 
 ---
 
